@@ -1,2 +1,2 @@
-# Java-Practice-Questions
-This repository include java practice questions
+# DSA-Practice-Questions-in-Java
+This repository include DSA practice questions in Java
