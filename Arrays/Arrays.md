@@ -5,3 +5,5 @@ List of Array Questions:
 2. Largest ELement Finder 2 (Effective Solution )
 3. Array Sorted or Not
 4. Array Sorted or Not 2
+5. Second Largest Element in Array
+6. Second Largesr Element in Array 2
