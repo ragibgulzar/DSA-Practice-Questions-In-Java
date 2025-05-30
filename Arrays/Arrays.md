@@ -7,3 +7,5 @@ List of Array Questions:
 4. Array Sorted or Not 2
 5. Second Largest Element in Array
 6. Second Largest Element in Array 2
+7. Remove Duplicates from Sorted Array
+8. Remove Duplicates from Sorted Array 2
