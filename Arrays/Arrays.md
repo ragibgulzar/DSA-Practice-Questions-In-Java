@@ -10,3 +10,6 @@ List of Array Questions:
 7. Remove Duplicates from Sorted Array
 8. Remove Duplicates from Sorted Array 2
 9. Reverse an Array
+10. Left Rotate an Element by D positions
+11. Left Rotate an Element by D 2
+12. Left Rotate an Element by D 3
