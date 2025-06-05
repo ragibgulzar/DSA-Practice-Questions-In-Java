@@ -13,3 +13,5 @@ List of Array Questions:
 10. Left Rotate an Element by D positions
 11. Left Rotate an Element by D 2
 12. Left Rotate an Element by D 3
+13. Move Zeroes to End
+14. Move Zeroes to End 2
